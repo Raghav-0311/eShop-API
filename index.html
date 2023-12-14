@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>eShop API</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        background-color: #f2eafa;
+        color: #180828;
+      }
+
+      .container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+      }
+
+      img {
+        width: 30rem;
+        animation: rotation 5s infinite;
+      }
+
+      @keyframes rotation {
+        from {
+            transform: rotateX(0deg);
+        }
+        to {
+            transform: rotateX(360deg);
+        }
+      }
+
+      h1 {
+        font-size: 4rem;
+      }
+
+      p {
+        font-size: 2rem;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+        <img src="./Logo2.png" alt="eShop Logo">
+      <h1>Welcome to E-Shop API</h1>
+      <p>
+        In order to use this API in your projects, kindly go through the API documentation 👍🏻.
+      </p>
+    </div>
+  </body>
+</html>
