@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "MacBook Pro",
+            "brand": "Apple",
+            "price": 350000.00,
+            "colors": ["#e3e4e6", "#7d7e80", "#2e2c2f"],
+            "image": "https://drive.google.com/uc?export=view&id=10Pbbn4DIobHAMM1D8Jlk4mhwuoswkvKO",
+            "description": "Unleash unparalleled creativity with Apple's new MacBook Pro, a pinnacle of performance and innovation. This sleek powerhouse boasts a stunning 14-inch Retina XDR display with ProMotion technology, rendering vivid visuals and true-to-life colors. Accelerate your workflow with the M2 Pro chip, delivering unprecedented speed and efficiency. The enhanced Magic Keyboard ensures a comfortable and precise typing experience, while the Thunderbolt 4 ports offer versatile connectivity. Capture every detail with the advanced 1080p FaceTime HD camera. With macOS Monterey at its core, the new MacBook Pro redefines professional computing, setting a new standard for productivity and creativity.",
+            "category": "Laptop",
+            "featured": true,
+            "shipping": true,
+            "features": ["Game-changing performance", "Next-level graphics", "Best-in-class battery life", "Liquid Retina XDR display"],
+            "url": "https://www.apple.com/in/shop/buy-mac/macbook-pro/16-inch-space-black-apple-m3-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb",
+            "specifications": {
+                "processor": "M3 Max",
+                "cpu": "16-Core CPU",
+                "gpu": "40-Core GPU",
+                "ram": "48 GB Unified Memory",
+                "storage": "1 TB SSD Storage",
+                "display": "16-inch Liquid Retina XDR Display"
+            }
+        }
+    ]
+}
