@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Welcome to the E-Shop API, where you can access a curated collection of cutting-edge electronic smart gadgets. This API provides comprehensive information about the latest and greatest devices, allowing you to seamlessly integrate our product catalog into your applications or website.",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Raghav Kashyap",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
