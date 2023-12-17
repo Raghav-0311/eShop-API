@@ -64,6 +64,13 @@ Data:
             type: string
         display:
             type: string
+    productImages:
+        type: object
+        properties:
+        pi_1: string
+        pi_2: string
+        pi_3: string
+        pi_4: string
 ```
 
 ### Open to merge new endpoints ❤️
