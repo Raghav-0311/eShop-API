@@ -20,6 +20,12 @@
                 "ram": "48 GB Unified Memory",
                 "storage": "1 TB SSD Storage",
                 "display": "16-inch Liquid Retina XDR Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=10Pbbn4DIobHAMM1D8Jlk4mhwuoswkvKO",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1K7jTLEnDF0MqPR_Yl1NT3iwyMjJsjMNw",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1idyuD9noddo8z8ySdeGo8054HW-ZnZqh",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1DtKXtB03TBWfPKaYvd19i6QGJAdqD8jU"
             }
         },
         {
@@ -42,6 +48,12 @@
                 "ram": "8 GB Unified Memory",
                 "storage": "512 GB SSD Storage",
                 "display": "15.3-inch Liquid Retina Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=15vfTH2T5eFF-P3-0Zx7J_36Hnl7xGzkp",
+                "pi_2": "https://drive.google.com/uc?export=view&id=18LCWdZff0xWNEHTanVcglYwfFi-9Ku_t",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1-wIMgS6zbjuwZ2ntqYYHIN6g8ltyqevM",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1syPgmg6YugU0YvX-jT49Xi_v1VCnlLtq"
             }
         },
         {
@@ -64,6 +76,12 @@
                 "ram": "16 GB",
                 "storage": "1 TB SSD Storage",
                 "display": "16-inch Dynamic Amoled 2X Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1f8HrdAYD632Ru9NQ5ztqWKNB8JHxpp3v",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1fV2at6bGDXDgdJUf45ADbHO8DbshlCCC",
+                "pi_3": "https://drive.google.com/uc?export=view&id=19EdYEJGvf3fDutivKwfkQgo516voGIfh",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1Qwq3UDA00JjxQQcKW0snpc4BWgOFWDgH"
             }
         },
         {
@@ -86,6 +104,12 @@
                 "ram": "16 GB GDDR6",
                 "storage": "4 TB SSD Storage",
                 "display": "17.3-inch QHD Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1SpYEgIbdiao1lnurl8-q8Iz3SxcMQicB",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1lXmN6xAL36vCzbE-6l0WhawUsX7MPZLG",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1UAJMP4ILiJsX7Zvvso0N5LCO-vtFK7e5",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1j8hpm7i8BLhVAECdyKGfOv7OSZNqiwIb"
             }
         },
         {
@@ -108,6 +132,12 @@
                 "ram": "64 GB DDR4",
                 "storage": "3 TB SSD Storage",
                 "display": "17.3-inch 4K UHD Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1SSQfMItBIsISkYIFDJRDrMHoBdTNfaET",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1iVyINpxeSLyedadEcrseZu4tFZvvZAu7",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1VFacJOm6rxOQvQvbhEJI7Qu3TFqPa3eo",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1_EUGpGXjSfkulbGnFaokPX_7FP0cvg0S"
             }
         },
         {
@@ -130,6 +160,12 @@
                 "ram": "128 GB Unified Memory",
                 "storage": "8 TB SSD Storage",
                 "display": "Up to 8 4K Displays"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1v87Ch3LFaadegGw7ZtOoqYlgYKsNswY-",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1-9EpaQaiXHK1D0NuXaty8XVuoX67uxAh",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1RaxFZot3ES0WElqoOt6EHFeQ2ZJ1NTol",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1z2zzz8aaySYTeinsAVMANn0LPmhQVyg4"
             }
         },
         {
@@ -152,6 +188,12 @@
                 "ram": "64 GB Unified Memory",
                 "storage": "1 TB SSD Storage",
                 "display": "Simultaneous support for up to five displays"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=153uEUjVE9DsMPvpEgpmKgA3irW-GoXg3",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1oCNTWE8efP3VYcOv1ou6v0zg4IjuAe9d",
+                "pi_3": "https://drive.google.com/uc?export=view&id=11-6huNjY_xUz8V3yIhPIYMQ8e9WtBysF",
+                "pi_4": "https://drive.google.com/uc?export=view&id=18th4Ee4YU6z_xtkiZCdqYQzfcA6b7zpj"
             }
         },
         {
@@ -174,6 +216,12 @@
                 "ram": "16 GB Unified Memory",
                 "storage": "512 TB SSD Storage",
                 "display": "Simultaneously supports up to three displays"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1CFi6D4vnOEfiZ5FWCSFR06-GKUzMx6Oz",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1qJ364q4VVXCA2IqRTlZiOvHlyYTpdvaK",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1DXKO5UQVgHbte6BFKbM9F5bU57tG4SD4",
+                "pi_4": "https://drive.google.com/uc?export=view&id=14HThlbS3h8sDY-zVV_a3flZdu8SzDCoQ"
             }
         },
         {
@@ -196,6 +244,12 @@
                 "ram": "8 GB Unified Memory",
                 "storage": "512 GB SSD Storage",
                 "display": "24-inch 4.5K Retina Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1wK9P-6nsOOSWkiqF_VNmbtWW4XyFTkUh",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1hgCfDHiV5AfVY3Ty6Y-Go_p4FpR9nGNj",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1M7jff6Degve0Kh9uDLm5Xk6PELCkqLnQ",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1Dnto9RFIK8kcFYsYhyMr17M5ao1Fpce0"
             }
         },
         {
@@ -218,6 +272,12 @@
                 "ram": "12 GB",
                 "storage": "512 GB Storage",
                 "display": "14.56-inch Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1Cq-Tats6WliIu_2XBvyLEP8ezLChQqvt",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1iDB4OvA515kSWIiep7q_fVlRq_mEk4Ay",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1yupRZLotO5KfKBBNRQ0u-znm3RP5yme9",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1JcUB3RYHt7kKJSs5FjJJY8zLdbGyuM4U"
             }
         },
         {
@@ -240,6 +300,12 @@
                 "ram": "8 GB Unified Memory",
                 "storage": "128 GB Storage",
                 "display": "12.9-inch Liquid Retina XDR Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=18wLjMM_xKbWLmvgISfNvIvu-JtA3HwW4",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1GfH4flbIinuMK0qv_NCbWnlvd1YT-MIF",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1S-qPwbnZEYh6b-Ef8e8QfESX-lxVoK-g",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1uRL91AcPveUqJJpyt2XEKPPmM5ASLZ_x"
             }
         },
         {
@@ -262,6 +328,12 @@
                 "ram": "8 GB Unified Memory",
                 "storage": "64 GB Storage",
                 "display": "10.9-inch LED-backlit Multi-Touch Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1lRYGw9kIx21JgwTq75cTluFkgvTNsyJC",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1sM3cMBVbamxMJfZMex7emCxAS760N07D",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1kZ9h0a1bGE8BvUY1HxlIreuMTzYKtSG7",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1Adx6f56rD7Ohz7YjF5loqZuRApQDeBVD"
             }
         },
         {
@@ -284,6 +356,12 @@
                 "ram": "12 GB",
                 "storage": "256 GB Storage",
                 "display": "14.6-inch sAMOLED Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1bqePoS_nEsCMZxXksTvxI8G05PyYptP9",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1XRKL-2d4akiwiNnwjGGKDnHMTEnZ0NOX",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1_YphcPXO0kZ1L14j7k4FIiSmLPtE8fdy",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1q5Zo5BRFwqUlG-tLCLlkQqBuUttMKzNV"
             }
         },
         {
@@ -306,6 +384,12 @@
                 "ram": "8 GB Unified Memory",
                 "storage": "64 GB Storage",
                 "display": "8.3-inch LED-backlit Multi-Touch Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=14ZaSt9TH_MPzch4YbSAEoN8cP5bnLURR",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1aVnijGq_gQ0sjBeRqmqKOLwp8tQ9iIyk",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1ksuc_AKn7yydcchUXrhav_buk765WjBJ",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1-vupE1dY-X4K_wYUqkxoAKCchDTWXhVZ"
             }
         },
         {
@@ -328,6 +412,12 @@
                 "ram": "Not Available",
                 "storage": "Not Available",
                 "display": "27-inch 4K Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1XwYIkZEN8FYxLx1V3dCahFYEEu0Pt8Vd",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1Z7xitO_cXkaSYjy0FAvDA_nKk9jV2rn4",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1QTFGl6l9pXQV742uOoVbWfYuuW7-TdDU",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1pN6U8xjJoOz1zV_Jjf8ERLpeu50mDC1I"
             }
         },
         {
@@ -350,6 +440,12 @@
                 "ram": "8 GB Unified Memory",
                 "storage": "256 GB Storage",
                 "display": "6.7-inch Super Retina XDR Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1oijUXrs9hATB6cXROmKUKHlHBjb1pmr9",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1wID6R1uop7rPE_3K5KaFt5F2rItJzyE4",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1OCIIUJRKexdl1EEjXoMSfm-kank42vXE",
+                "pi_4": "https://drive.google.com/uc?export=view&id=15MLMhaLMr0AG8yTOw8CvUFR0ca2TB7Oh"
             }
         },
         {
@@ -372,6 +468,12 @@
                 "ram": "12 GB",
                 "storage": "256 GB Storage",
                 "display": "6.8-inch Dynamic AMOLED 2X Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1iUbnzR62ERyb1fB5Qizyy-Ee6ws54jLK",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1KpwqDOqosUt5RkkRi0cllkJpDXcXbqTK",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1TZ4x2prWvGmDZmkHxv6-Hko9E7iycvYd",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1aW3H9mlCYHbUKHObYyqqiNpaC8-Pvzma"
             }
         },
         {
@@ -394,6 +496,12 @@
                 "ram": "16 GB",
                 "storage": "512 GB Storage",
                 "display": "7.82-inch Flexi-Fluid AMOLED Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1a9umhGB_Hs_Dr3vs7sbXNlDBz4nDWKZx",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1Hrdj6prxV37Yhzgcs6m2V2VSG-ntaW8F",
+                "pi_3": "https://drive.google.com/uc?export=view&id=16mzC6loBtuPoGz_5j1-isDP7bfiojm3d",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1-rf-uyQuB0O-jiBb64TU87qJOEiy35gr"
             }
         },
         {
@@ -416,6 +524,12 @@
                 "ram": "12 GB",
                 "storage": "256 GB Storage",
                 "display": "6.7-inch LTPO OLED AMOLED Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1MhRX1uAz2y7wOABxaIhiT716snfRrh2e",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1GvqiKuA40M0lKPLPI2FzwOqQXz1F4D-O",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1mr_EPmtHYwOa8648yfR-3IZhUGSGXnBT",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1Zos_vk5Pr-Hm0HIuiFT5ORUYXDbM5EgP"
             }
         },
         {
@@ -438,6 +552,12 @@
                 "ram": "8 GB Unified Memory",
                 "storage": "128 GB Storage",
                 "display": "6.7-inch Super Retina XDR Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=16QUF06kMWk9PkQG5MJHOr0DZ3oy96tBu",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1B1IA3dPMif441_xNLE4rxetNenwzu-EC",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1nKeip75lMCX2PCNLXtAO8v8rvIwP84Pn",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1KPIwUgw7fJwAFxvOy3yRWL4b3swYZQnC"
             }
         },
         {
@@ -460,6 +580,12 @@
                 "ram": "1 GB Unified Memory",
                 "storage": "64 GB Storage",
                 "display": "1.9-inch Retina LTPO OLED Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1l3DxKojf7eeDDbHj-lk40KUQ7FjnQR76",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1IjekDnxHKo-8tZO_2VjBmrbaNn-m9S9D",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1xIOk4_XkhxNX-3W6948nIHZU-VmIgRdI",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1TPDUojxKPXM2aGP90hwjMLGbgiYhhe86"
             }
         },
         {
@@ -482,6 +608,12 @@
                 "ram": "1 GB Unified Memory",
                 "storage": "64 GB Storage",
                 "display": "1.92-inch Retina LTPO OLED Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1upKWkZiXvtnQApyKS6fkZxaNqmvPhiuV",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1oMulKaWfzd789kV0ex22nvBVeRWtNovl",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1caJt4o8_YZAWwlE_mz2IatLg6W7Oy-8s",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1Kx-PGTcAYYGxuxj2zX37xg-sxSoLQheS"
             }
         },
         {
@@ -504,6 +636,12 @@
                 "ram": "1.5 GB",
                 "storage": "16 GB Storage",
                 "display": "1.4-inch Super AMOLED Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=164xv5zWmNgQd_q-xcWO1E7_3BVjpLXY4",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1sbSfKrVJpF0WLzutUpaILiCL2ipyNfs2",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1wp4QQa5zne6hK7ByuF3gLwnzr5GUgPyX",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1QOJOKWmVvWvgsN_WsU6YtFqkFDrIjU1i"
             }
         },
         {
@@ -526,6 +664,12 @@
                 "ram": "2 GB",
                 "storage": "16 GB Storage",
                 "display": "1.3-inch AMOLED Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1LdTR_Hp0-scTppFCzyPWyIzPTtTs560c",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1CdcFyGk18bKkRN810HmficoqHqoDbHz5",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1-tmakNlt-sX8VTwDQ6cKmsVBe0rjl5zK",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1NSBAShxe-hoypvajuXkwy484MhHnf8aD"
             }
         },
         {
@@ -548,6 +692,12 @@
                 "ram": "1 GB Unified Memory",
                 "storage": "32 GB Storage",
                 "display": "1.78-inch Retina LTPO OLED Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1AFpQw8xhDyaevOssuw1M159IvbzvmLRE",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1yb4_pcb1Wf7zLEpDlxuIO0kh2guYPKRf",
+                "pi_3": "https://drive.google.com/uc?export=view&id=1qTKAnQqt7F83OJY3yu2qTHM5VcO2h7H0",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1YcBonACDT8NLbMP-4yV73DksJOWK0s7A"
             }
         },
         {
@@ -570,6 +720,12 @@
                 "ram": "Not Available",
                 "storage": "Not Available",
                 "display": "27-inch 5K Retina Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=190TjbuL7c4w5vA40KKYQI4yh9Ie6WxjJ",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1Q9HMuHgbgQL89U49uuJgY6sEliVdlUxH",
+                "pi_3": "https://drive.google.com/uc?export=view&id=12XZfDHThf2AWmf8pYcb1BN_O3b_IvWcF",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1DgOiGekzAGGnGQ2wgFmly05XahjvP5Al"
             }
         },
         {
@@ -592,6 +748,12 @@
                 "ram": "Not Available",
                 "storage": "Not Available",
                 "display": "32-inch Retina 6K Display"
+            },
+            "productImages": {
+                "pi_1": "https://drive.google.com/uc?export=view&id=1jCy8FlUFB6CFifzwKMJloqnlpQqPbUah",
+                "pi_2": "https://drive.google.com/uc?export=view&id=1LVShDcIFWrn0PYxVfdpoZlMgzSdUV4Ef",
+                "pi_3": "https://drive.google.com/uc?export=view&id=112RA380Q-UGf2rH5lNODCileLQczaRuL",
+                "pi_4": "https://drive.google.com/uc?export=view&id=1qTgIZW57yb7MR4SXqmFQf1CMv0RuxApc"
             }
         }
     ]
