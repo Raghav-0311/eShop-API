@@ -67,10 +67,14 @@ Data:
     productImages:
         type: object
         properties:
-        pi_1: string
-        pi_2: string
-        pi_3: string
-        pi_4: string
+        pi_1:
+            type: string
+        pi_2: 
+            type: string
+        pi_3: 
+            type: string
+        pi_4: 
+            type: string
 ```
 
 ### Open to merge new endpoints ❤️
