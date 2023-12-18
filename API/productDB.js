@@ -6,6 +6,7 @@ import ProductJSON from "./products.json" assert { type: 'json'};
 const start = async () => {
     try {
         await connectDB(process.env.DB_CONNECTION);
+        await Product.deleteMany(); // to avoid data duplicacy
         await Product.create(ProductJSON);
         console.log("Data Successfully Created ✅");
     } catch (error) {
