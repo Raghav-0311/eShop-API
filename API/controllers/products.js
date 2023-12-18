@@ -38,8 +38,18 @@ const getAllProducts = async (req, res) => {
         apiData = apiData.select(selectFix);
     }
 
+    // PAGINATION
+    // Getting query parameters && change it to number
+    let page = Number(req.query.page) || 1; // default page is 1st page
+    let limit = Number(req.query.limit) || 27 // default limit is 27 documents
+
+    // Pagination Formula
+    let skip = (page - 1) * limit;
+
+    apiData = apiData.skip(skip).limit(limit);
+
     const myData = await apiData;
-    res.status(200).json({ myData });
+    res.status(200).json({ count: myData.length, limit: limit, page: page, myData });
 };
 
 const getAllProductsTesting = async (req, res) => {
