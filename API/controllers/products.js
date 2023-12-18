@@ -48,8 +48,8 @@ const getAllProducts = async (req, res) => {
 
     apiData = apiData.skip(skip).limit(limit);
 
-    const myData = await apiData;
-    res.status(200).json({ count: myData.length, limit: limit, page: page, myData });
+    const Products = await apiData;
+    res.status(200).json({ count: Products.length, limit: limit, page: page, Products });
 };
 
 const getAllProductsTesting = async (req, res) => {
